@@ -1,3 +1,6 @@
+THIS REPOSITORY HAS BEEN MOVED TO https://github.com/dalenys/php-merchant-api/ it won't receive any update
+NOTE: the namespace has been moved from Be2bill to Dalenys.
+
 [Be2bill Merchant API] (http://developer.be2bill.com/)
 
 A simple PHP implementation of the Be2bill payment platform API.
